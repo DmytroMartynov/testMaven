@@ -1,0 +1,17 @@
+{"Group": {
+    "name": "java",
+    "users": {"users": [
+        {
+            "name": "Alex",
+            "age": 22
+        },
+        {
+            "name": "Masha",
+            "age": 23
+        },
+        {
+            "name": "Max",
+            "age": 26
+        }
+    ]}
+}}
